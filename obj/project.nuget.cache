@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsZwb7hl2zTKL7x+ozFp4JGhEHj15YSqTlMMZTqQRoreZ3LYjGzOqhxZikqSBqKKlAIhjcbTqjJoEAalq06ltA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\babad\\Desktop\\SimbirSoft_Test-master\\Andrey Vasil`ev Simbirsoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\babad\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}

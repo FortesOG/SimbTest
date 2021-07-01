@@ -1,0 +1,15 @@
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.exe
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.deps.json
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.runtimeconfig.json
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.runtimeconfig.dev.json
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.dll
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.pdb
+C:\Users\babad\Desktop\SimbirSoft_Test-master\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.csproj.AssemblyReference.cache
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.AssemblyInfoInputs.cache
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.AssemblyInfo.cs
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.csproj.CoreCompileInputs.cache
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.csproj.CopyComplete
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.dll
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.pdb
+C:\Users\babad\Desktop\SimbirSoft_Test-master\obj\Debug\netcoreapp3.1\Andrey Vasil`ev Simbirsoft.genruntimeconfig.cache
